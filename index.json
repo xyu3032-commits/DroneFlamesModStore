@@ -15,6 +15,11 @@
 			"id": "future_warfare",
 			"name": "FutureWarfareMod",
 			"url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfareMod/main/mod_catalog/catalog.json"
+		},
+		{
+			"id": "kangzhan_campaign",
+			"name": "KangzhanMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/KangzhanMod/main/catalog.json"
 		}
 	]
 }
