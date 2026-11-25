@@ -1,1 +1,45 @@
-{"index_version": 1, "sources": [{"id": "modern_warfare", "name": "ModernWarfareMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/mod_catalog/catalog.json"}, {"id": "zombie_apocalypse", "name": "ZombieApocalypseMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/ZombieApocalypseMod/main/mod_catalog/catalog.json"}, {"id": "future_warfare", "name": "FutureWarfareMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfareMod/main/mod_catalog/catalog.json"}, {"id": "kangzhan_campaign", "name": "KangzhanMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/KangzhanMod/main/catalog.json"}, {"id": "naval_warfare", "name": "NavalWarfareMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/catalog.json"}, {"id": "future_warfare_041", "name": "FutureWarfare041Mod", "url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfare041Mod/main/catalog.json"}, {"id": "xiuxian_world", "name": "XiuxianWorldMod", "url": "https://raw.githubusercontent.com/xyu3032-commits/XiuxianWorldMod/main/catalog.json"}, {"id": "mini041", "name": "Mini041Mods", "url": "https://raw.githubusercontent.com/xyu3032-commits/Mini041Mods/main/catalog.json"}]}
+{
+	"index_version": 1,
+	"sources": [
+		{
+			"id": "modern_warfare",
+			"name": "ModernWarfareMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/ModernWarfareMod/main/mod_catalog/catalog.json"
+		},
+		{
+			"id": "zombie_apocalypse",
+			"name": "ZombieApocalypseMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/ZombieApocalypseMod/main/mod_catalog/catalog.json"
+		},
+		{
+			"id": "future_warfare",
+			"name": "FutureWarfareMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfareMod/main/mod_catalog/catalog.json"
+		},
+		{
+			"id": "kangzhan_campaign",
+			"name": "KangzhanMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/KangzhanMod/main/catalog.json"
+		},
+		{
+			"id": "naval_warfare",
+			"name": "NavalWarfareMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/catalog.json"
+		},
+		{
+			"id": "future_warfare_041",
+			"name": "FutureWarfare041Mod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfare041Mod/main/catalog.json"
+		},
+		{
+			"id": "xiuxian_world",
+			"name": "XiuxianWorldMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/XiuxianWorldMod/main/catalog.json"
+		},
+		{
+			"id": "mini041",
+			"name": "Mini041Mods",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/Mini041Mods/main/catalog.json"
+		}
+	]
+}
