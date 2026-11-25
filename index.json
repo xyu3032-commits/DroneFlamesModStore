@@ -20,6 +20,11 @@
 			"id": "kangzhan_campaign",
 			"name": "KangzhanMod",
 			"url": "https://raw.githubusercontent.com/xyu3032-commits/KangzhanMod/main/catalog.json"
+		},
+		{
+			"id": "naval_warfare",
+			"name": "NavalWarfareMod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/catalog.json"
 		}
 	]
 }
