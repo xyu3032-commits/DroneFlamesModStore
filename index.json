@@ -25,6 +25,11 @@
 			"id": "naval_warfare",
 			"name": "NavalWarfareMod",
 			"url": "https://raw.githubusercontent.com/xyu3032-commits/NavalWarfareMod/main/catalog.json"
+		},
+		{
+			"id": "future_warfare_041",
+			"name": "FutureWarfare041Mod",
+			"url": "https://raw.githubusercontent.com/xyu3032-commits/FutureWarfare041Mod/main/catalog.json"
 		}
 	]
 }
